@@ -10,7 +10,7 @@ model = joblib.load("emailclassifier.pkl")
 # load the vectorizer
 vectorizer = joblib.load("countvectorizer.pkl")
 # take the input of email from the user
-email = st.text_area("Enter the email here")
+email = st.text_area("Enter the email here!!!!!!!!")
 
 # make the prediction button
 # make the prediction button
